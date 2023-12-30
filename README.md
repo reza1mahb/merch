@@ -3,7 +3,7 @@
 ## required materials
 
 1. `shirt`
-2. `marker`
+2. `marker`,.
 
 ## instructions
 
